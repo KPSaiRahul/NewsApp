@@ -1,4 +1,15 @@
+# Project Title
+
+A newsapp created with the help of react.js with bootstrap
+
 # Getting Started with Create React App
+
+First, run the development server
+
+```bash
+  npm run start
+  # or
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
